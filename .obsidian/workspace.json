@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BHASHMA.md",
+                "file": "IFRIT/_HERE_WE_GO.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5
   },
   "right": {
     "id": "abaacbcd6f252829",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BHASHMA.md",
+                "file": "IFRIT/_HERE_WE_GO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BHASHMA.md",
+                "file": "IFRIT/_HERE_WE_GO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BHASHMA.md"
+                "file": "IFRIT/_HERE_WE_GO.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,15 +156,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1c4d1475a9260ad",
+  "active": "84a34007aa588efd",
   "lastOpenFiles": [
+    "VULNLABS/CICADA/_CICADA.md",
     "BHASHMA.md",
     "_CHECK_CHECK.md",
     "Github",
     "VULNLABS",
     "VULNLABS/CICADA/Cover_Cicada.png",
     "REFLECTION_.zip",
-    "VULNLABS/CICADA/_CICADA.md",
     "VULNLABS/HERON_XX/_HERON.md",
     "VULNLABS/HERON_XX/Heron_Cover.png",
     "VULNLABS/KAIJU_XX/_KAIJU.md",
@@ -174,8 +175,8 @@
     "IFRIT/Backup_vhdx.png",
     "IFRIT/Read_Access_Share.png",
     "Pasted image 20241006105428.png",
-    "VULNLABS/HERON_XX/NOTE_.md",
-    "VULNLABS/HERON_XX/TOOLS_.md",
+    "NOTE_.md",
+    "TOOLS_.md",
     "IFRIT/Backup_vhdx.png",
     "VULNLABS/CICADA/Marketing.png.png",
     "VULNLABS/CICADA",
