@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e987cd1f9c4dacc",
+            "id": "b98736a7d0bde7b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VULNLABS/SENDAI_/_SENDAI.md",
+                "file": "VULNLABS/BREACH_/BREACH_.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VULNLABS/SENDAI_/_SENDAI.md",
+                "file": "VULNLABS/BREACH_/BREACH_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VULNLABS/SENDAI_/_SENDAI.md",
+                "file": "VULNLABS/BREACH_/BREACH_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VULNLABS/SENDAI_/_SENDAI.md"
+                "file": "VULNLABS/BREACH_/BREACH_.md"
               }
             }
           },
@@ -156,25 +156,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84a34007aa588efd",
+  "active": "b98736a7d0bde7b4",
   "lastOpenFiles": [
-    "VULNLABS/SENDAI_/ESC4_CA.png",
-    "VULNLABS/SENDAI_/CA-Operator.png",
-    "VULNLABS/SENDAI_/Clifford_Davey.png",
-    "IFRIT/_HERE_WE_GO.md",
+    "VULNLABS/BREACH_/SYSTEM_.png",
+    "VULNLABS/BREACH_/Svc_Mssql.png",
+    "VULNLABS/BREACH_/SPN_Cracked.png",
+    "VULNLABS/BREACH_/MSSQL_hash.png",
+    "Pasted image 20241007194402.png",
+    "NOTE_.md",
+    "VULNLABS/BREACH_/BREACH_.md",
+    "VULNLABS/BREACH_/Crack_Creds.png",
+    "VULNLABS/BREACH_/Responder_hash.png",
+    "VULNLABS/BREACH_/scf_attacked.png",
+    "VULNLABS/BREACH_/scf_attack.png",
+    "VULNLABS/BREACH_/INternet_Short.png",
+    "VULNLABS/BREACH_/Guest_Access_.png",
+    "VULNLABS/BREACH_",
     "VULNLABS/SENDAI_/_SENDAI.md",
+    "IFRIT/_HERE_WE_GO.md",
     "VULNLABS/TENGU_/_TENGU.md",
     "TOOLS_.md",
-    "VULNLABS/SENDAI_/GMSA_CREDS.png",
-    "VULNLABS/SENDAI_/Bloodhound_Gmsa.png",
-    "VULNLABS/SENDAI_/Bloodhound_.png",
-    "VULNLABS/SENDAI_/sql.config.png",
-    "VULNLABS/SENDAI_/Password_Change.png",
-    "VULNLABS/SENDAI_/Shares_Content.png",
-    "VULNLABS/SENDAI_/Guest_ACcess.png",
-    "VULNLABS/SENDAI_/Sendai_Cover.png",
     "README.md",
-    "NOTE_.md",
     "SUMMARY.md",
     "VULNLABS/SENDAI_",
     "VULNLABS/TENGU_/README.md",
@@ -198,11 +200,9 @@
     "VULNLABS/REFLECTION_/_REFLECTION.md",
     "VULNLABS/CICADA",
     "VULNLABS/INTERCEPT_XX/_INTERCEPT.md",
-    "TEA__/_TEA.md",
     "TEA__",
     "VULNLABS/HERON_XX",
     "VULNLABS/INTERCEPT_XX",
-    "VULNLABS/SIDECAR_XX",
-    "VULNLABS/KAIJU_XX"
+    "VULNLABS/SIDECAR_XX"
   ]
 }
