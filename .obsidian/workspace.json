@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1c4d1475a9260ad",
+            "id": "8e987cd1f9c4dacc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IFRIT/_HERE_WE_GO.md",
+                "file": "VULNLABS/SENDAI_/_SENDAI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IFRIT/_HERE_WE_GO.md",
+                "file": "VULNLABS/SENDAI_/_SENDAI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IFRIT/_HERE_WE_GO.md",
+                "file": "VULNLABS/SENDAI_/_SENDAI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IFRIT/_HERE_WE_GO.md"
+                "file": "VULNLABS/SENDAI_/_SENDAI.md"
               }
             }
           },
@@ -158,6 +158,25 @@
   },
   "active": "84a34007aa588efd",
   "lastOpenFiles": [
+    "VULNLABS/SENDAI_/ESC4_CA.png",
+    "VULNLABS/SENDAI_/CA-Operator.png",
+    "VULNLABS/SENDAI_/Clifford_Davey.png",
+    "IFRIT/_HERE_WE_GO.md",
+    "VULNLABS/SENDAI_/_SENDAI.md",
+    "VULNLABS/TENGU_/_TENGU.md",
+    "TOOLS_.md",
+    "VULNLABS/SENDAI_/GMSA_CREDS.png",
+    "VULNLABS/SENDAI_/Bloodhound_Gmsa.png",
+    "VULNLABS/SENDAI_/Bloodhound_.png",
+    "VULNLABS/SENDAI_/sql.config.png",
+    "VULNLABS/SENDAI_/Password_Change.png",
+    "VULNLABS/SENDAI_/Shares_Content.png",
+    "VULNLABS/SENDAI_/Guest_ACcess.png",
+    "VULNLABS/SENDAI_/Sendai_Cover.png",
+    "README.md",
+    "NOTE_.md",
+    "SUMMARY.md",
+    "VULNLABS/SENDAI_",
     "VULNLABS/TENGU_/README.md",
     "VULNLABS/SIDECAR_XX/README.md",
     "VULNLABS/REFLECTION_/README.md",
@@ -167,42 +186,23 @@
     "VULNLABS/CICADA/README.md",
     "VULNLABS/README.md",
     "IFRIT/README.md",
-    "SUMMARY.md",
-    "README.md",
     "VULNLABS/CICADA/_CICADA.md",
     "BHASHMA.md",
     "_CHECK_CHECK.md",
     "Github",
     "VULNLABS",
-    "VULNLABS/CICADA/Cover_Cicada.png",
     "REFLECTION_.zip",
     "VULNLABS/HERON_XX/_HERON.md",
-    "VULNLABS/HERON_XX/Heron_Cover.png",
     "VULNLABS/KAIJU_XX/_KAIJU.md",
-    "VULNLABS/KAIJU_XX/Kaiju_Cover_.png",
     "VULNLABS/SIDECAR_XX/_SIDECAR.md",
-    "IFRIT/_HERE_WE_GO.md",
     "VULNLABS/REFLECTION_/_REFLECTION.md",
-    "IFRIT/Backup_vhdx.png",
-    "IFRIT/Read_Access_Share.png",
-    "Pasted image 20241006105428.png",
-    "NOTE_.md",
-    "TOOLS_.md",
-    "IFRIT/Backup_vhdx.png",
-    "VULNLABS/CICADA/Marketing.png.png",
     "VULNLABS/CICADA",
-    "VULNLABS/TENGU_/_TENGU.md",
-    "VULNLABS/REFLECTION_/Dc_Pwned.png",
-    "VULNLABS/SIDECAR_XX/Sidecar_Cover.png",
     "VULNLABS/INTERCEPT_XX/_INTERCEPT.md",
     "TEA__/_TEA.md",
     "TEA__",
     "VULNLABS/HERON_XX",
     "VULNLABS/INTERCEPT_XX",
     "VULNLABS/SIDECAR_XX",
-    "VULNLABS/KAIJU_XX",
-    "HERON_/_WALK.md",
-    "VULNLABS/HERON_XX",
-    "Welcome.md"
+    "VULNLABS/KAIJU_XX"
   ]
 }

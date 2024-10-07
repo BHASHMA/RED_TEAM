@@ -44,7 +44,7 @@ SMB         10.10.240.101   445    DC01             [*] Windows Server 2022 Buil
 There's Guest level access in WS01 , Where guest can read/write in dev shared workspace.
 
 
-![](Guest_Access.png)
+![](../SENDAI_/Guest_ACcess.png)
 
 
 ![](Guest_Share.png)
