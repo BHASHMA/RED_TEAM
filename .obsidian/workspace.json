@@ -11,8 +11,12 @@
             "id": "a1c4d1475a9260ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BHASHMA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BHASHMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BHASHMA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_CHECK_CHECK.md"
+                "file": "BHASHMA.md"
               }
             }
+          },
+          {
+            "id": "e45539ba2ef4a62f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84a34007aa588efd",
+  "active": "a1c4d1475a9260ad",
   "lastOpenFiles": [
+    "BHASHMA.md",
     "_CHECK_CHECK.md",
     "Github",
     "VULNLABS",
