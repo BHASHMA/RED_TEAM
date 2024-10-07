@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "a89eb5ac2e7e2b5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a9b0a0a866e8dd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1c4d1475a9260ad",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd3268c3fee3e598",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ef8459a35d20d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84a34007aa588efd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "afca0033b1bef6f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3ee5bb2b2516369",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abaacbcd6f252829",
+    "type": "split",
+    "children": [
+      {
+        "id": "af981df3f0408d29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a3633cb6e307297",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VULNLABS/HERON_XX/_HERON.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c588bf7e0c5a2220",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "VULNLABS/HERON_XX/_HERON.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5110a47d9ea3a4ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de02d56f9e2feea2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "VULNLABS/HERON_XX/_HERON.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "84a34007aa588efd",
+  "lastOpenFiles": [
+    "Github",
+    "VULNLABS",
+    "VULNLABS/CICADA/Cover_Cicada.png",
+    "REFLECTION_.zip",
+    "VULNLABS/CICADA/_CICADA.md",
+    "VULNLABS/HERON_XX/_HERON.md",
+    "VULNLABS/HERON_XX/Heron_Cover.png",
+    "VULNLABS/KAIJU_XX/_KAIJU.md",
+    "VULNLABS/KAIJU_XX/Kaiju_Cover_.png",
+    "VULNLABS/SIDECAR_XX/_SIDECAR.md",
+    "IFRIT/_HERE_WE_GO.md",
+    "VULNLABS/REFLECTION_/_REFLECTION.md",
+    "IFRIT/Backup_vhdx.png",
+    "IFRIT/Read_Access_Share.png",
+    "Pasted image 20241006105428.png",
+    "VULNLABS/HERON_XX/NOTE_.md",
+    "VULNLABS/HERON_XX/TOOLS_.md",
+    "IFRIT/Backup_vhdx.png",
+    "VULNLABS/CICADA/Marketing.png.png",
+    "VULNLABS/CICADA",
+    "VULNLABS/TENGU_/_TENGU.md",
+    "VULNLABS/REFLECTION_/Dc_Pwned.png",
+    "VULNLABS/SIDECAR_XX/Sidecar_Cover.png",
+    "VULNLABS/INTERCEPT_XX/_INTERCEPT.md",
+    "TEA__/_TEA.md",
+    "TEA__",
+    "VULNLABS/HERON_XX",
+    "VULNLABS/INTERCEPT_XX",
+    "VULNLABS/SIDECAR_XX",
+    "VULNLABS/KAIJU_XX",
+    "HERON_/_WALK.md",
+    "VULNLABS/HERON_XX",
+    "VULNLABS/TENGU_",
+    "Welcome.md"
+  ]
+}
