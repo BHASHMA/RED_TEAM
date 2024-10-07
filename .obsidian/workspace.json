@@ -11,12 +11,8 @@
             "id": "a1c4d1475a9260ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_CHECK_CHECK.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_CHECK_CHECK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_CHECK_CHECK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +141,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1c4d1475a9260ad",
+  "active": "84a34007aa588efd",
   "lastOpenFiles": [
     "_CHECK_CHECK.md",
     "Github",
