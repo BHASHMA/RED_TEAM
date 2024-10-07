@@ -1,2 +1,0 @@
-# INTERCEPT\_XX
-
