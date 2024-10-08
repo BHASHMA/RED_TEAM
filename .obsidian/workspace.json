@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7a9b0a0a866e8dd0",
+        "id": "38cbbaf8a6d4b39c",
         "type": "tabs",
         "children": [
           {
-            "id": "b98736a7d0bde7b4",
+            "id": "a2a861356c9e7091",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VULNLABS/BREACH_/BREACH_.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VULNLABS/BREACH_/BREACH_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VULNLABS/BREACH_/BREACH_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "VULNLABS/BREACH_/BREACH_.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,21 +148,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b98736a7d0bde7b4",
+  "active": "a2a861356c9e7091",
   "lastOpenFiles": [
+    "VULNLABS/BREACH_/BREACH_.md",
     "VULNLABS/BREACH_/SYSTEM_.png",
     "VULNLABS/BREACH_/Svc_Mssql.png",
     "VULNLABS/BREACH_/SPN_Cracked.png",
     "VULNLABS/BREACH_/MSSQL_hash.png",
     "Pasted image 20241007194402.png",
     "NOTE_.md",
-    "VULNLABS/BREACH_/BREACH_.md",
     "VULNLABS/BREACH_/Crack_Creds.png",
     "VULNLABS/BREACH_/Responder_hash.png",
     "VULNLABS/BREACH_/scf_attacked.png",
     "VULNLABS/BREACH_/scf_attack.png",
     "VULNLABS/BREACH_/INternet_Short.png",
-    "VULNLABS/BREACH_/Guest_Access_.png",
     "VULNLABS/BREACH_",
     "VULNLABS/SENDAI_/_SENDAI.md",
     "IFRIT/_HERE_WE_GO.md",
