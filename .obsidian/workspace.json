@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 373.5
   },
   "right": {
     "id": "abaacbcd6f252829",
@@ -148,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f66e4b0b8846056a",
+  "active": "84a34007aa588efd",
   "lastOpenFiles": [
-    "AD_ATTACKS/READ_GMSA_PASSWORD.md",
     "AD_ATTACKS/PARENT_CHILD_ATTACK.md",
+    "AD_ATTACKS/READ_GMSA_PASSWORD.md",
     "AD_ATTACKS/GENERIC_WRITE_ABUSE.md",
     "NOTE_.md",
     "AD_ATTACKS",
