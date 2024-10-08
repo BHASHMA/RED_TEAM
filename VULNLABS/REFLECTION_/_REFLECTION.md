@@ -270,7 +270,7 @@ Yeah , It is and also he reused his credentials for both of his accounts !
 The Domain Controlled is Pwned !
 
 
-## Learned 
+## LEARNED 
 
 SMB relaying 
 Generic All Attack 
@@ -279,7 +279,7 @@ Generic All Attack
 Password Reuse 
 
 
-## Reverse Shell
+### Reverse Shell
 
 We are using atexec to disable windows defender and execute a nishang reverse shell to get access to the box WS01
 

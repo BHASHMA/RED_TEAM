@@ -11,8 +11,12 @@
             "id": "f66e4b0b8846056a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "VULNLABS/REFLECTION_/_REFLECTION.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VULNLABS/REFLECTION_/_REFLECTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VULNLABS/REFLECTION_/_REFLECTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "VULNLABS/REFLECTION_/_REFLECTION.md"
+              }
             }
           },
           {
@@ -148,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84a34007aa588efd",
+  "active": "f66e4b0b8846056a",
   "lastOpenFiles": [
     "AD_ATTACKS/PARENT_CHILD_ATTACK.md",
     "AD_ATTACKS/READ_GMSA_PASSWORD.md",
