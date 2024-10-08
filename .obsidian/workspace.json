@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ddabbf3045984656",
+        "id": "9d7cef7588c67a25",
         "type": "tabs",
         "children": [
           {
-            "id": "ef7336d117fce784",
+            "id": "f66e4b0b8846056a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,16 +148,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef7336d117fce784",
+  "active": "f66e4b0b8846056a",
   "lastOpenFiles": [
-    "README.md",
+    "AD_ATTACKS/READ_GMSA_PASSWORD.md",
+    "AD_ATTACKS/PARENT_CHILD_ATTACK.md",
+    "AD_ATTACKS/GENERIC_WRITE_ABUSE.md",
     "NOTE_.md",
-    "IFRIT/_HERE_WE_GO.md",
-    "VULNLABS/BREACH_/BREACH_.md",
-    "VULNLABS/REFLECTION_/_REFLECTION.md",
-    "VULNLABS/SENDAI_/_SENDAI.md",
-    "VULNLABS/TENGU_/_TENGU.md",
+    "AD_ATTACKS",
     "TOOLS_.md",
+    "VULNLABS/SENDAI_/_SENDAI.md",
+    "VULNLABS/BREACH_/BREACH_.md",
+    "README.md",
+    "IFRIT/_HERE_WE_GO.md",
+    "VULNLABS/REFLECTION_/_REFLECTION.md",
+    "VULNLABS/TENGU_/_TENGU.md",
     "IFRIT/README.md",
     "VULNLABS/INTERCEPT_XX/_INTERCEPT.md",
     "VULNLABS/INTERCEPT_XX/Intercept_Cover.png",
@@ -188,13 +192,9 @@
     "VULNLABS/KAIJU_XX/README.md",
     "VULNLABS/INTERCEPT_XX/README.md",
     "VULNLABS/HERON_XX/README.md",
-    "VULNLABS/CICADA/README.md",
-    "VULNLABS/README.md",
-    "VULNLABS/CICADA/_CICADA.md",
     "Github",
     "VULNLABS",
     "REFLECTION_.zip",
-    "VULNLABS/CICADA",
-    "TEA__"
+    "VULNLABS/CICADA"
   ]
 }

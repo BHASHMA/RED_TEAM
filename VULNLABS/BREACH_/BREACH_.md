@@ -3,6 +3,7 @@
 
 
 
+## INFO
 
 ```
 [*] Windows Server 2022 Build 20348 x64 (name:BREACHDC) (domain:breach.vl) (signing:True) (SMBv1:False)

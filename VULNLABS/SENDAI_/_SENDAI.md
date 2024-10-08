@@ -1,6 +1,7 @@
 
 ![](Sendai_Cover.png)
 
+## INFO
 
 ```
 PORT     STATE SERVICE
@@ -20,8 +21,6 @@ PORT     STATE SERVICE
 3389/tcp open  ms-wbt-server
 ```
 
-
-
 Guest Level Access in the smb share . Lets Explore !
 
 ![](Guest_ACcess.png)
@@ -31,6 +30,8 @@ Guest Level Access in the smb share . Lets Explore !
 
 We found potential user accounts and a note which states that ``All user accounts with insecure passwords have been expired as a precautionary measure. This means that affected users will be required to change their passwords upon their next login.`` Which is a good sign for a penetration-tester. 
 
+
+## INITIAL ACCESS
 
 Checkin' with common credentials !
 ```
@@ -101,6 +102,9 @@ Cool ! We got mgtsvc$ account hash.
 ```
 └─# evil-winrm -i sendai.vl -u mgtsvc$ -H 582bdf7c5328ca2bf3de975a6ed4b7c7
 ```
+
+
+# ESC4 Attack
 
 Running  [PrivescCheck.ps1](https://github.com/itm4n/PrivescCheck) We found creds of clifford.davey.
 
