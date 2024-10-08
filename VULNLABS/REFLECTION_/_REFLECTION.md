@@ -10,7 +10,7 @@ SMB         10.10.193.213   445    DC01             [*] Windows Server 2022 Buil
 ```
 
 
-### INITIAL_ACCESS
+## INITIAL_ACCESS
 
 
 We got guest level access in MS01 , and got a staging_db.conf file.
@@ -154,7 +154,7 @@ Windows Local Administrator Password Solution** (Windows LAPS) is a Windows feat
 
 
 
-### MS01
+## MS01
 
 ```
 └─# crackmapexec smb 10.10.205.246 -u MS01$ -p 'H447.++h6g5}xi' --local-auth
@@ -206,7 +206,7 @@ Then ,
 
 Cool ! We Got her Credentials . Lets Explore and Penetrate More!
 
-### WS01
+## WS01
 
 
 ![](Georgia_Prince_Hound.png)

@@ -4,7 +4,7 @@
 
 
 
-### Lab Intro
+## Lab Intro
 
 In this Assumed-Breach Scenario, your main objective is getting domain administrator privileges in the "ifrit.vl" Domain. The company created the following low-privileged user accounts in the "eu-ifrit.vl" domain for you:
 
@@ -52,7 +52,7 @@ Besides reaching the main objective, your secondary goal is to complete the obje
 
 
 
-### INITIAL_ACCESS
+## INITIAL_ACCESS
 
 
 

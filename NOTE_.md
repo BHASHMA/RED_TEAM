@@ -9,6 +9,8 @@ Having domain credentials opens up a whole new world of enumeration possibilitie
 
 
 
+## LNK File Attack 
+
 Cool ! We got write access in the Custom Folder of the public Share . which is the `Folder for custom shortcuts & internet links.`
 
 We can craft our lnk files , So if some users being curious enough to **click** on shortcut files

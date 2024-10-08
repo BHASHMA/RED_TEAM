@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f66fbd22f3e06062",
+        "id": "ddabbf3045984656",
         "type": "tabs",
         "children": [
           {
-            "id": "c1cdd9d2f5f3d29c",
+            "id": "ef7336d117fce784",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,9 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84a34007aa588efd",
+  "active": "ef7336d117fce784",
   "lastOpenFiles": [
+    "README.md",
     "NOTE_.md",
+    "IFRIT/_HERE_WE_GO.md",
+    "VULNLABS/BREACH_/BREACH_.md",
+    "VULNLABS/REFLECTION_/_REFLECTION.md",
+    "VULNLABS/SENDAI_/_SENDAI.md",
+    "VULNLABS/TENGU_/_TENGU.md",
     "TOOLS_.md",
     "IFRIT/README.md",
     "VULNLABS/INTERCEPT_XX/_INTERCEPT.md",
@@ -162,7 +164,6 @@
     "VULNLABS/KAIJU_XX/_KAIJU.md",
     "VULNLABS/SIDECAR_XX/_SIDECAR.md",
     "VULNLABS/HERON_XX/_HERON.md",
-    "VULNLABS/TENGU_/_TENGU.md",
     "VULNLABS/MEDIA_/_MEDIA.md",
     "VULNLABS/MEDIA_/User_Access.png",
     "VULNLABS/MEDIA_/enox_creds.png",
@@ -177,12 +178,8 @@
     "VULNLABS/PUSH_/_PUSH.md",
     "VULNLABS/PUSH_/Push_Cover.png",
     "VULNLABS/PUSH_",
-    "VULNLABS/BREACH_/BREACH_.md",
     "VULNLABS/BREACH_/SYSTEM_.png",
     "VULNLABS/BREACH_",
-    "VULNLABS/SENDAI_/_SENDAI.md",
-    "IFRIT/_HERE_WE_GO.md",
-    "README.md",
     "SUMMARY.md",
     "VULNLABS/SENDAI_",
     "VULNLABS/TENGU_/README.md",

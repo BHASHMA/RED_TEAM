@@ -35,7 +35,7 @@ Guest Share is accessible with write permission !
 ![](Guest_Access_.png)
 
 
-### URL FILE ATTACK
+## URL FILE ATTACK
 
 We can perform this attack when we got write access to any share.
 
@@ -66,7 +66,7 @@ If they use simple password , thats good !
 
 
 
-### SVC_MSSQL
+## SVC_MSSQL
 
 Cool ! We got domain user and a lot of possibilities to enumerate.
 
