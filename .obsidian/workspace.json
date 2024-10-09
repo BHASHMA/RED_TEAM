@@ -11,8 +11,12 @@
             "id": "6bce2f88bbe685cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "VULNLABS/RETRO_2/RETRO_2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VULNLABS/RETRO_2/RETRO_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VULNLABS/RETRO_2/RETRO_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "VULNLABS/RETRO_2/RETRO_2.md"
+              }
             }
           },
           {
@@ -150,21 +158,24 @@
   },
   "active": "6bce2f88bbe685cb",
   "lastOpenFiles": [
-    "VULNLABS/LUSTROUS/__LUSTROUS.md",
-    "NOTE_.md",
-    "VULNLABS/LUSTROUS/Tony_Property.png",
-    "VULNLABS/LUSTROUS/Tony_Backup.png",
-    "VULNLABS/LUSTROUS/That's IT.png",
-    "VULNLABS/LUSTROUS/TGS.png",
-    "VULNLABS/LUSTROUS/PWNED__.png",
-    "VULNLABS/LUSTROUS/Pwned_LuSMS.png",
-    "VULNLABS/LUSTROUS/Note_Tony.png",
-    "VULNLABS/LUSTROUS/LUSMS_WINRM.png",
-    "VULNLABS/LUSTROUS/LOCAL_SecretsDump.png",
-    "VULNLABS/LUSTROUS/ftp_anonymous.png",
-    "VULNLABS/LUSTROUS",
+    "VULNLABS/RETRO_2/Retro_2_Cover.png",
     "VULNLABS/RETRO_/_RETRO.md",
+    "VULNLABS/RETRO_2/RETRO_2.md",
+    "VULNLABS/RETRO_2",
+    "NOTE_.md",
+    "VULNLABS/RETRO_/Certipy_auth.png",
+    "VULNLABS/RETRO_/Certipy_Req.png",
+    "VULNLABS/RETRO_/ESC1_Attack.png",
+    "VULNLABS/RETRO_/Change_Password.png",
+    "VULNLABS/RETRO_/Pre_Created_.png",
+    "Pasted image 20241009145601.png",
+    "VULNLABS/RETRO_/Notes-Share.png",
+    "VULNLABS/RETRO_/Important_txt.png",
+    "VULNLABS/RETRO_/Geust_Smb.png",
     "VULNLABS/DELEGATE_X/_DELEGATE.md",
+    "VULNLABS/RETRO_/Retro_Cover.png",
+    "VULNLABS/LUSTROUS/__LUSTROUS.md",
+    "VULNLABS/LUSTROUS",
     "VULNLABS/RETRO_",
     "TOOLS_.md",
     "VULNLABS/REFLECTION_/_REFLECTION.md",
@@ -192,9 +203,6 @@
     "VULNLABS/BREACH_",
     "SUMMARY.md",
     "VULNLABS/SENDAI_",
-    "VULNLABS/TENGU_/README.md",
-    "VULNLABS/SIDECAR_XX/README.md",
-    "VULNLABS/REFLECTION_/README.md",
-    "Github"
+    "VULNLABS/TENGU_/README.md"
   ]
 }
