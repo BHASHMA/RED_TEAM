@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f5bcb3ea6f328d37",
+        "id": "b415c1853214ecac",
         "type": "tabs",
         "children": [
           {
-            "id": "6bce2f88bbe685cb",
+            "id": "5f166298a44eadd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VULNLABS/RETRO_2/RETRO_2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -158,10 +154,12 @@
   },
   "active": "84a34007aa588efd",
   "lastOpenFiles": [
+    "VULNLABS/RETRO_2/Secrets_Dump.png",
     "VULNLABS/RETRO_2/Public_Shares.png",
+    "VULNLABS/RETRO_2/RETRO_2.md",
+    "VULNLABS/RETRO_2/Zero_Logon.png",
     "VULNLABS/RETRO_2/Retro_2_Cover.png",
     "VULNLABS/RETRO_/_RETRO.md",
-    "VULNLABS/RETRO_2/RETRO_2.md",
     "VULNLABS/RETRO_2",
     "NOTE_.md",
     "VULNLABS/RETRO_/Certipy_auth.png",
@@ -171,8 +169,6 @@
     "VULNLABS/RETRO_/Pre_Created_.png",
     "Pasted image 20241009145601.png",
     "VULNLABS/RETRO_/Notes-Share.png",
-    "VULNLABS/RETRO_/Important_txt.png",
-    "VULNLABS/RETRO_/Geust_Smb.png",
     "VULNLABS/DELEGATE_X/_DELEGATE.md",
     "VULNLABS/LUSTROUS/__LUSTROUS.md",
     "VULNLABS/LUSTROUS",
