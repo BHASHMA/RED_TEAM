@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VULNLABS/RETRO_2/RETRO_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VULNLABS/RETRO_2/RETRO_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "VULNLABS/RETRO_2/RETRO_2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,11 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84a34007aa588efd",
+  "active": "5f166298a44eadd0",
   "lastOpenFiles": [
+    "VULNLABS/RETRO_2/RETRO_2.md",
     "VULNLABS/RETRO_2/Secrets_Dump.png",
     "VULNLABS/RETRO_2/Public_Shares.png",
-    "VULNLABS/RETRO_2/RETRO_2.md",
     "VULNLABS/RETRO_2/Zero_Logon.png",
     "VULNLABS/RETRO_2/Retro_2_Cover.png",
     "VULNLABS/RETRO_/_RETRO.md",
@@ -168,7 +164,6 @@
     "VULNLABS/RETRO_/Change_Password.png",
     "VULNLABS/RETRO_/Pre_Created_.png",
     "Pasted image 20241009145601.png",
-    "VULNLABS/RETRO_/Notes-Share.png",
     "VULNLABS/DELEGATE_X/_DELEGATE.md",
     "VULNLABS/LUSTROUS/__LUSTROUS.md",
     "VULNLABS/LUSTROUS",
