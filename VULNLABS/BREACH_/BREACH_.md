@@ -58,7 +58,8 @@ If someone clicks on the url we get hash ! Start Responder !
 └─# responder -I tun0 -v
 ```
 
-![](../MEDIA_/Responder_Hash.png)
+![](Responder_hash.png)
+
 
 If they use simple password , thats good !
 

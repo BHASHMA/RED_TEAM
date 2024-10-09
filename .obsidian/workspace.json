@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9d7cef7588c67a25",
+        "id": "f5bcb3ea6f328d37",
         "type": "tabs",
         "children": [
           {
-            "id": "f66e4b0b8846056a",
+            "id": "6bce2f88bbe685cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VULNLABS/REFLECTION_/_REFLECTION.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 223.5
   },
   "right": {
     "id": "abaacbcd6f252829",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VULNLABS/REFLECTION_/_REFLECTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VULNLABS/REFLECTION_/_REFLECTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "VULNLABS/REFLECTION_/_REFLECTION.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,53 +148,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f66e4b0b8846056a",
+  "active": "6bce2f88bbe685cb",
   "lastOpenFiles": [
+    "VULNLABS/LUSTROUS/__LUSTROUS.md",
+    "NOTE_.md",
+    "VULNLABS/LUSTROUS/Tony_Property.png",
+    "VULNLABS/LUSTROUS/Tony_Backup.png",
+    "VULNLABS/LUSTROUS/That's IT.png",
+    "VULNLABS/LUSTROUS/TGS.png",
+    "VULNLABS/LUSTROUS/PWNED__.png",
+    "VULNLABS/LUSTROUS/Pwned_LuSMS.png",
+    "VULNLABS/LUSTROUS/Note_Tony.png",
+    "VULNLABS/LUSTROUS/LUSMS_WINRM.png",
+    "VULNLABS/LUSTROUS/LOCAL_SecretsDump.png",
+    "VULNLABS/LUSTROUS/ftp_anonymous.png",
+    "VULNLABS/LUSTROUS",
+    "VULNLABS/RETRO_/_RETRO.md",
+    "VULNLABS/DELEGATE_X/_DELEGATE.md",
+    "VULNLABS/RETRO_",
+    "TOOLS_.md",
+    "VULNLABS/REFLECTION_/_REFLECTION.md",
+    "VULNLABS/BREACH_/BREACH_.md",
+    "VULNLABS/DELEGATE_X",
     "AD_ATTACKS/PARENT_CHILD_ATTACK.md",
     "AD_ATTACKS/READ_GMSA_PASSWORD.md",
     "AD_ATTACKS/GENERIC_WRITE_ABUSE.md",
-    "NOTE_.md",
     "AD_ATTACKS",
-    "TOOLS_.md",
     "VULNLABS/SENDAI_/_SENDAI.md",
-    "VULNLABS/BREACH_/BREACH_.md",
     "README.md",
     "IFRIT/_HERE_WE_GO.md",
-    "VULNLABS/REFLECTION_/_REFLECTION.md",
     "VULNLABS/TENGU_/_TENGU.md",
     "IFRIT/README.md",
     "VULNLABS/INTERCEPT_XX/_INTERCEPT.md",
-    "VULNLABS/INTERCEPT_XX/Intercept_Cover.png",
     "VULNLABS/KAIJU_XX/_KAIJU.md",
     "VULNLABS/SIDECAR_XX/_SIDECAR.md",
     "VULNLABS/HERON_XX/_HERON.md",
     "VULNLABS/MEDIA_/_MEDIA.md",
-    "VULNLABS/MEDIA_/User_Access.png",
-    "VULNLABS/MEDIA_/enox_creds.png",
-    "VULNLABS/MEDIA_/Responder_Hash.png",
-    "VULNLABS/MEDIA_/Steal_Hash.png",
-    "VULNLABS/MEDIA_/WEbPage.png",
-    "VULNLABS/MEDIA_/Media.png",
     "VULNLABS/MEDIA_",
     "VULNLABS/BRUNO_/_BRUNO.md",
-    "VULNLABS/BRUNO_/Bruno_Cover.png",
     "VULNLABS/BRUNO_",
     "VULNLABS/PUSH_/_PUSH.md",
-    "VULNLABS/PUSH_/Push_Cover.png",
     "VULNLABS/PUSH_",
-    "VULNLABS/BREACH_/SYSTEM_.png",
     "VULNLABS/BREACH_",
     "SUMMARY.md",
     "VULNLABS/SENDAI_",
     "VULNLABS/TENGU_/README.md",
     "VULNLABS/SIDECAR_XX/README.md",
     "VULNLABS/REFLECTION_/README.md",
-    "VULNLABS/KAIJU_XX/README.md",
-    "VULNLABS/INTERCEPT_XX/README.md",
-    "VULNLABS/HERON_XX/README.md",
-    "Github",
-    "VULNLABS",
-    "REFLECTION_.zip",
-    "VULNLABS/CICADA"
+    "Github"
   ]
 }

