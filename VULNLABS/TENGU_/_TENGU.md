@@ -124,7 +124,7 @@ Now , That's cool. NODERED$ can read gmsa password . We gonna use this tool /  [
 ```
 
 
-![](../SENDAI_/GMSA_CREDS.png)
+![](../SENDAI/GMSA_CREDS.png)
 
 ```
 gMSA01$:::fb7788e6bfa32c568a9dba5490c49575
