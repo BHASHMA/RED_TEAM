@@ -11,8 +11,12 @@
             "id": "85c01008854bd9d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "VULNLABS/SENDAI/_SENDAI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VULNLABS/SENDAI/_SENDAI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VULNLABS/SENDAI/_SENDAI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "VULNLABS/SENDAI/_SENDAI.md"
+              }
             }
           },
           {
@@ -148,8 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85c01008854bd9d5",
+  "active": "84a34007aa588efd",
   "lastOpenFiles": [
+    "VULNLABS/SENDAI/Guest_Level.png",
+    "VULNLABS/SENDAI/Guest_ACcess.png",
+    "VULNLABS/SENDAI/Shares_Content.png",
+    "VULNLABS/SENDAI/_SENDAI.md",
     "VULNLABS/VIGILANT_/VIGILANT_.md",
     "README.md",
     "NOTE_.md",
@@ -166,8 +178,6 @@
     "VULNLABS/VIGILANT_",
     "VULNLABS/RETRO_2/RETRO_2.md",
     "VULNLABS/RETRO_2/Secrets_Dump.png",
-    "VULNLABS/RETRO_2/Public_Shares.png",
-    "VULNLABS/RETRO_2/Zero_Logon.png",
     "VULNLABS/RETRO/_RETRO.md",
     "VULNLABS/RETRO_2",
     "VULNLABS/DELEGATE_X/_DELEGATE.md",
@@ -180,7 +190,6 @@
     "AD_ATTACKS/READ_GMSA_PASSWORD.md",
     "AD_ATTACKS/GENERIC_WRITE_ABUSE.md",
     "AD_ATTACKS",
-    "VULNLABS/SENDAI/_SENDAI.md",
     "IFRIT/_HERE_WE_GO.md",
     "IFRIT/README.md",
     "VULNLABS/INTERCEPT_XX/_INTERCEPT.md",

@@ -23,7 +23,8 @@ PORT     STATE SERVICE
 
 Guest Level Access in the smb share . Lets Explore !
 
-![](../VIGILANT_/Guest_Access.png)
+
+![](Guest_Level.png)
 
 
 ![](Shares_Content.png)
