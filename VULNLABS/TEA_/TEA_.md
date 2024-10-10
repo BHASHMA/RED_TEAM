@@ -49,7 +49,7 @@ What are actions ?
 Simply , Its like cron-jobs , You give set of action / jobs to the runners and on the background it's gonna do the job.
 
 
-![](Tea_Runner_Shell.png)
+![](Tea_Runner.png)
 
 Now , As there's a action runner , we need to take leverage of that to get a shell on the box. 
 
