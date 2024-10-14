@@ -54,6 +54,7 @@ Simply , Its like cron-jobs , You give set of action / jobs to the runners and o
 Now , As there's a action runner , we need to take leverage of that to get a shell on the box. 
 
 In order to do that : 
+
 1--> Create a New-Repository. Then , Go to the settings of the repository and update Enable Repository Actions.
 
 ![](Tea_Enable.png)
