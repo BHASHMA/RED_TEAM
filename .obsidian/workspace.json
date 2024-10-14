@@ -156,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51fbd6664ebc1ee0",
+  "active": "84a34007aa588efd",
   "lastOpenFiles": [
+    "BHASHMA.png",
+    "README.md",
     "VULNLABS/HERON_/HERON.md",
     "AD_ATTACKS/RBCD ATTACK.md",
     "AD_ATTACKS",
@@ -173,7 +175,6 @@
     "NOTE_.md",
     "VULNLABS/HERON_/Heron_Account.png",
     "VULNLABS/HERON_/Heron_Gpp.png",
-    "README.md",
     "VULNLABS/HERON_",
     "VULNLABS/TEA_/TEA_.md",
     "TOOLS_.md",
@@ -202,7 +203,6 @@
     "VULNLABS/SIDECAR_XX/_SIDECAR.md",
     "VULNLABS/HERON_XX/_HERON.md",
     "VULNLABS/MEDIA_/_MEDIA.md",
-    "VULNLABS/MEDIA_",
-    "VULNLABS/BRUNO_/_BRUNO.md"
+    "VULNLABS/MEDIA_"
   ]
 }
