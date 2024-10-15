@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "LUSTROUS_2/LUSTROUS_2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "LUSTROUS_2/LUSTROUS_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "LUSTROUS_2/LUSTROUS_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "LUSTROUS_2/LUSTROUS_2.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "84a34007aa588efd",
   "lastOpenFiles": [
-    "BHASHMA.png",
+    "LUSTROUS_2/Lustrous_Cover.png",
     "README.md",
+    "LUSTROUS_2/LUSTROUS_2.md",
+    "LUSTROUS_2",
+    "BHASHMA.png",
     "VULNLABS/HERON_/HERON.md",
     "AD_ATTACKS/RBCD ATTACK.md",
     "AD_ATTACKS",
@@ -174,7 +177,6 @@
     "VULNLABS/HERON_/Heron_Persistence.png",
     "NOTE_.md",
     "VULNLABS/HERON_/Heron_Account.png",
-    "VULNLABS/HERON_/Heron_Gpp.png",
     "VULNLABS/HERON_",
     "VULNLABS/TEA_/TEA_.md",
     "TOOLS_.md",
@@ -201,8 +203,6 @@
     "VULNLABS/INTERCEPT_XX/_INTERCEPT.md",
     "VULNLABS/KAIJU_XX/_KAIJU.md",
     "VULNLABS/SIDECAR_XX/_SIDECAR.md",
-    "VULNLABS/HERON_XX/_HERON.md",
-    "VULNLABS/MEDIA_/_MEDIA.md",
-    "VULNLABS/MEDIA_"
+    "VULNLABS/HERON_XX/_HERON.md"
   ]
 }
