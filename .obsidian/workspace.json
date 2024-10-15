@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LUSTROUS_2/LUSTROUS_2.md",
+                "file": "VULNLABS/LUSTROUS_2_X/LUSTROUS_2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LUSTROUS_2/LUSTROUS_2.md",
+                "file": "VULNLABS/LUSTROUS_2_X/LUSTROUS_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LUSTROUS_2/LUSTROUS_2.md",
+                "file": "VULNLABS/LUSTROUS_2_X/LUSTROUS_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LUSTROUS_2/LUSTROUS_2.md"
+                "file": "VULNLABS/LUSTROUS_2_X/LUSTROUS_2.md"
               }
             }
           },
@@ -158,10 +158,10 @@
   },
   "active": "84a34007aa588efd",
   "lastOpenFiles": [
-    "LUSTROUS_2/Lustrous_Cover.png",
+    "VULNLABS/LUSTROUS_2_X/Lustrous_Cover.png",
     "README.md",
-    "LUSTROUS_2/LUSTROUS_2.md",
-    "LUSTROUS_2",
+    "VULNLABS/LUSTROUS_2_X/LUSTROUS_2.md",
+    "VULNLABS/LUSTROUS_2_X",
     "BHASHMA.png",
     "VULNLABS/HERON_/HERON.md",
     "AD_ATTACKS/RBCD ATTACK.md",
