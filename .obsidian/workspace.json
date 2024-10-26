@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bbc915c1e8bcf4f4",
+        "id": "787ad2c5cdce1ca4",
         "type": "tabs",
         "children": [
           {
-            "id": "51fbd6664ebc1ee0",
+            "id": "004b47c0290d7f62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VULNLABS/LUSTROUS_2_X/LUSTROUS_2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LUSTROUS_2"
             }
           },
           {
@@ -105,7 +111,9 @@
                 "file": "VULNLABS/LUSTROUS_2_X/LUSTROUS_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LUSTROUS_2"
             }
           },
           {
@@ -116,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +136,9 @@
               "type": "outline",
               "state": {
                 "file": "VULNLABS/LUSTROUS_2_X/LUSTROUS_2.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LUSTROUS_2"
             }
           },
           {
@@ -134,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -158,12 +172,12 @@
   },
   "active": "84a34007aa588efd",
   "lastOpenFiles": [
+    "VULNLABS/HERON_/HERON.md",
+    "VULNLABS/LUSTROUS_2_X/LUSTROUS_2.md",
     "VULNLABS/LUSTROUS_2_X/Lustrous_Cover.png",
     "README.md",
-    "VULNLABS/LUSTROUS_2_X/LUSTROUS_2.md",
     "VULNLABS/LUSTROUS_2_X",
     "BHASHMA.png",
-    "VULNLABS/HERON_/HERON.md",
     "AD_ATTACKS/RBCD ATTACK.md",
     "AD_ATTACKS",
     "VULNLABS/HERON_/Heron_Privilege.png",
@@ -176,7 +190,6 @@
     "VULNLABS/HERON_/Heron_Trigger.png",
     "VULNLABS/HERON_/Heron_Persistence.png",
     "NOTE_.md",
-    "VULNLABS/HERON_/Heron_Account.png",
     "VULNLABS/HERON_",
     "VULNLABS/TEA_/TEA_.md",
     "TOOLS_.md",
