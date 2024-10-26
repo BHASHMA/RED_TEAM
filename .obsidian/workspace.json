@@ -11,10 +11,14 @@
             "id": "004b47c0290d7f62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BHASHMA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "BHASHMA"
             }
           }
         ]
@@ -170,12 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84a34007aa588efd",
+  "active": "004b47c0290d7f62",
   "lastOpenFiles": [
     "VULNLABS/HERON_/HERON.md",
     "VULNLABS/LUSTROUS_2_X/LUSTROUS_2.md",
     "VULNLABS/LUSTROUS_2_X/Lustrous_Cover.png",
-    "README.md",
+    "BHASHMA.md",
     "VULNLABS/LUSTROUS_2_X",
     "BHASHMA.png",
     "AD_ATTACKS/RBCD ATTACK.md",
