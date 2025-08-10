@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BHASHMA.md",
+                "file": "_BACK_TO_THE_GAME/PUPPY/HTB - PUPPY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BHASHMA"
+              "title": "HTB - PUPPY"
             }
           }
         ]
@@ -174,10 +174,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84a34007aa588efd",
+  "active": "e966cc1b5d4135b0",
   "lastOpenFiles": [
+    "_BACK_TO_THE_GAME/PUPPY/Puppy_Node.png",
+    "_BACK_TO_THE_GAME/PUPPY/Puppy_adam.png",
+    "_BACK_TO_THE_GAME/PUPPY/Puppy_antony-creds.png",
+    "_BACK_TO_THE_GAME/PUPPY/Puppy_kdbx.png",
+    "_BACK_TO_THE_GAME/PUPPY/Puppy_Generic-Write.png",
+    "_BACK_TO_THE_GAME/PUPPY/Puppy_Cover_.png",
+    "BHASHMA.md",
+    "_BACK_TO_THE_GAME/PUPPY/HTB - PUPPY.md",
+    "Untitled",
+    "_BACK_TO_THE_GAME/PUPPY",
     "Bhashma_.png",
-    "BACK_TO_THE_GAME/VOLEUR/HTB - VOLEUR.md",
+    "_BACK_TO_THE_GAME/VOLEUR/HTB - VOLEUR.md",
     "VULNLABS/BREACH/BREACH_.md",
     "AD_ATTACKS/GENERIC ALL.md",
     "RED_TEAM/VULNLABS/TENGU_/_TENGU.md",
@@ -185,12 +195,6 @@
     "RED_TEAM/VULNLABS/TENGU_/SQL_Rooted.png",
     "RED_TEAM/VULNLABS/TENGU_/Rce_Node.png",
     "RED_TEAM/VULNLABS/TENGU_/Privilge_SQL.png",
-    "RED_TEAM/VULNLABS/TENGU_/Node_Red_Privilege.png",
-    "RED_TEAM/VULNLABS/TENGU_/Node_Red.png",
-    "RED_TEAM/VULNLABS/TENGU_/Mssql_Creds.png",
-    "RED_TEAM/VULNLABS/TENGU_/Mssql_Access.png",
-    "RED_TEAM/VULNLABS/TENGU_/M.Winters_Ccache.png",
-    "RED_TEAM/VULNLABS/TENGU_/Gmsa_Creds.png",
     "RED_TEAM/VULNLABS/TEA_/TEA_.md",
     "RED_TEAM/VULNLABS/SENDAI/_SENDAI.md",
     "RED_TEAM/VULNLABS/RETRO_2/RETRO_2.md",
@@ -208,8 +212,6 @@
     "RED_TEAM/VULNLABS/REFLECTION_",
     "RED_TEAM/VULNLABS/LUSTROUS_2_X",
     "RED_TEAM/VULNLABS/HERON_",
-    "RED_TEAM/VULNLABS/DELEGATE_X",
-    "RED_TEAM/VULNLABS/BREACH",
     "RED_TEAM/TOOLS_.md",
     "RED_TEAM/NOTE_.md",
     "RED_TEAM/IFRIT/_HERE_WE_GO.md",
@@ -217,10 +219,8 @@
     "RED_TEAM/AD_ATTACKS/RBCD ATTACK.md",
     "RED_TEAM/AD_ATTACKS/GENERIC ALL.md",
     "TOOLS_.md",
-    "BHASHMA.md",
     "NOTE_.md",
     "VULNLABS/DELEGATE_X/_DELEGATE.md",
-    "AD_ATTACKS/RBCD ATTACK.md",
-    "VULNLABS/HERON_/HERON.md"
+    "AD_ATTACKS/RBCD ATTACK.md"
   ]
 }
