@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIRELESS_/FUNDAMENTAL_.md",
+                "file": "WIRELESS_/BASICS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FUNDAMENTAL_"
+              "title": "BASICS"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,7 +179,7 @@
   "active": "8468ad0c1f9c7f1a",
   "lastOpenFiles": [
     "IFRIT/HERE_WE_GO.md",
-    "WIRELESS_/FUNDAMENTAL_.md",
+    "WIRELESS_/BASICS.md",
     "WIRELESS_",
     "HACK_THE_BOX/PUPPY/HTB - PUPPY.md",
     "HACK_THE_BOX/PUPPY/Puppy_Node.png",
