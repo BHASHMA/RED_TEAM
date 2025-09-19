@@ -152,8 +152,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -178,8 +178,10 @@
   },
   "active": "8468ad0c1f9c7f1a",
   "lastOpenFiles": [
-    "IFRIT/HERE_WE_GO.md",
+    "TOOLS_.md",
+    "NOTE_.md",
     "WIRELESS_/BASICS.md",
+    "IFRIT/HERE_WE_GO.md",
     "WIRELESS_",
     "HACK_THE_BOX/PUPPY/HTB - PUPPY.md",
     "HACK_THE_BOX/PUPPY/Puppy_Node.png",
@@ -221,8 +223,6 @@
     "RED_TEAM/BHASHMA.md",
     "RED_TEAM/AD_ATTACKS/RBCD ATTACK.md",
     "RED_TEAM/AD_ATTACKS/GENERIC ALL.md",
-    "TOOLS_.md",
-    "NOTE_.md",
     "VULNLABS/DELEGATE_X/_DELEGATE.md"
   ]
 }
