@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97d81bc4dd57fbb6",
+        "id": "a8218bb4cc282daf",
         "type": "tabs",
         "children": [
           {
-            "id": "e9db354bc293fe48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HACK_THE_BOX/DARK_CORP/DARK_CORP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DARK_CORP"
-            }
-          },
-          {
-            "id": "5069b2f5cfbc290d",
+            "id": "9870496781dbffe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "DARK_CORP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,10 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5069b2f5cfbc290d",
+  "active": "9870496781dbffe1",
   "lastOpenFiles": [
     "HACK_THE_BOX/DARK_CORP/Custom_rockyou.py.md",
     "HACK_THE_BOX/DARK_CORP/DARK_CORP.md",
+    "HACK_THE_BOX/DARK_CORP/Root_dark.png",
+    "HACK_THE_BOX/DARK_CORP/User-darkcorp.png",
     "HACK_THE_BOX/DARK_CORP/dark-corp-bloodhound.png",
     "HACK_THE_BOX/DARK_CORP/Dark_corp-bg.png",
     "Azure_AD/Azure Penetration Testing.md",
@@ -213,8 +200,6 @@
     "HACK_THE_BOX/VOLEUR/svc_ldap-voleur.png",
     "HACK_THE_BOX/VOLEUR/creds-voleur.png",
     "HACK_THE_BOX/VOLEUR/smb_access-voleur.png",
-    "Pasted image 20250925101905.png",
-    "Pasted image 20250925101818.png",
     "BHASHMA.md",
     "HACK_THE_BOX/VOLEUR",
     "HACK_THE_BOX/VOLEUR/HTB - VOLEUR.md",
@@ -237,7 +222,6 @@
     "RED_TEAM/VULNLABS/SENDAI",
     "RED_TEAM/VULNLABS/RETRO_2",
     "RED_TEAM/VULNLABS/RETRO",
-    "RED_TEAM/TOOLS_.md",
-    "RED_TEAM/NOTE_.md"
+    "RED_TEAM/TOOLS_.md"
   ]
 }

@@ -1,6 +1,6 @@
 
 input_file = "rockyou.txt"
-output_file = "rockyou_len7-12_unique.txt"
+output_file = "rockyou_custom.txt"
 
 min_len = 7
 max_len = 12

