@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HACK_THE_BOX/TOMB_WATCHER/TOMB_WATCHER_.md",
+                "file": "BHASHMA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TOMB_WATCHER_"
+              "title": "BHASHMA"
             }
           }
         ]
@@ -176,11 +176,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84a34007aa588efd",
+  "active": "be8e4de5b73f2e66",
   "lastOpenFiles": [
+    "TOOLS_.md",
+    "NOTE_.md",
+    "AZURE_AD/Azure Penetration Testing.md",
+    "Untitled.md",
+    "HACK_THE_BOX/TOMB_WATCHER/TOMB_WATCHER_.md",
     "HACK_THE_BOX/TOMB_WATCHER/next-blood-tomb.png",
     "AD_ATTACKS/GENERIC ALL.md",
-    "HACK_THE_BOX/TOMB_WATCHER/TOMB_WATCHER_.md",
     "AD_ATTACKS/RBCD ATTACK.md",
     "AD_ATTACKS/Generic_All.png",
     "GENERIC_ALL.md",
@@ -192,16 +196,12 @@
     "HACK_THE_BOX/TOMB_WATCHER/Tomb_bg.png",
     "HACK_THE_BOX/PUPPY/HTB - PUPPY.md",
     "HACK_THE_BOX/TOMB_WATCHER",
-    "AZURE_AD/Azure Penetration Testing.md",
     "BHASHMA.md",
     "Bhashma_.png",
-    "TOOLS_.md",
-    "NOTE_.md",
     "IFRIT/HERE_WE_GO.md",
     "HACK_THE_BOX/DARK_CORP/DARK_CORP.md",
     "HACK_THE_BOX/DARK_CORP/Custom_rockyou.py.md",
     "HACK_THE_BOX/DARK_CORP/Root_dark.png",
-    "HACK_THE_BOX/DARK_CORP/User-darkcorp.png",
     "HACK_THE_BOX/DARK_CORP",
     "AZURE_AD",
     "WIRELESS_/BASICS.md",
