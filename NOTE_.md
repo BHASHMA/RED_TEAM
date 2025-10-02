@@ -1,6 +1,5 @@
 
-
-https://notes.benheater.com/books/active-directory/page/kerberos-authentication-from-kali
+[Kerberos Authentication  ](https://notes.benheater.com/books/active-directory/page/kerberos-authentication-from-kali)
 
 
 Having domain credentials opens up a whole new world of enumeration possibilities:

