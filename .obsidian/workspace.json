@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0fab05123df3f591",
+        "id": "0ee327acce2e7e3d",
         "type": "tabs",
         "children": [
           {
-            "id": "be8e4de5b73f2e66",
+            "id": "3472215fb8df7bb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HACK_THE_BOX/TOMB_WATCHER/TOMB_WATCHER_.md",
+                "file": "HACK_THE_BOX/CERTIFICATE_/Certificate.htb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TOMB_WATCHER_"
+              "title": "Certificate.htb"
             }
           }
         ]
@@ -176,11 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be8e4de5b73f2e66",
+  "active": "84a34007aa588efd",
   "lastOpenFiles": [
+    "HACK_THE_BOX/CERTIFICATE_/certificate.png",
+    "HACK_THE_BOX/CERTIFICATE_/Certificate.htb.md",
+    "HACK_THE_BOX/CERTIFICATE_",
+    "HACK_THE_BOX/TOMB_WATCHER/TOMB_WATCHER_.md",
     "HACK_THE_BOX/TOMB_WATCHER/Root-tomb.png",
     "HACK_THE_BOX/TOMB_WATCHER/blood-tomB.png",
-    "HACK_THE_BOX/TOMB_WATCHER/TOMB_WATCHER_.md",
     "HACK_THE_BOX/TOMB_WATCHER/certipy_change-pass.png",
     "HACK_THE_BOX/TOMB_WATCHER/certipy-tomb.png",
     "HACK_THE_BOX/TOMB_WATCHER/del-user-tomb.png",
@@ -218,10 +221,8 @@
     "RED_TEAM/VULNLABS/RETRO/_RETRO.md",
     "RED_TEAM/VULNLABS/REFLECTION_/_REFLECTION.md",
     "RED_TEAM/VULNLABS/LUSTROUS_2_X/LUSTROUS_2.md",
-    "RED_TEAM/VULNLABS/HERON_/HERON.md",
     "RED_TEAM/VULNLABS/TENGU_",
     "RED_TEAM/VULNLABS/TEA_",
-    "RED_TEAM/VULNLABS/SENDAI",
-    "RED_TEAM/VULNLABS/RETRO_2"
+    "RED_TEAM/VULNLABS/SENDAI"
   ]
 }
