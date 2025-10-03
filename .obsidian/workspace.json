@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HACK_THE_BOX/CERTIFICATE_/Certificate.htb.md",
+                "file": "HACK_THE_BOX/MIRAGE_/MIRAGE.HTB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Certificate.htb"
+              "title": "MIRAGE.HTB"
             }
           }
         ]
@@ -176,10 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84a34007aa588efd",
+  "active": "3472215fb8df7bb7",
   "lastOpenFiles": [
-    "HACK_THE_BOX/CERTIFICATE_/certificate.png",
     "HACK_THE_BOX/CERTIFICATE_/Certificate.htb.md",
+    "HACK_THE_BOX/MIRAGE_/MIRAGE.HTB.md",
+    "HACK_THE_BOX/MIRAGE_",
+    "HACK_THE_BOX/CERTIFICATE_/certificate.png",
     "HACK_THE_BOX/CERTIFICATE_",
     "HACK_THE_BOX/TOMB_WATCHER/TOMB_WATCHER_.md",
     "HACK_THE_BOX/TOMB_WATCHER/Root-tomb.png",
@@ -199,7 +201,6 @@
     "Untitled.md",
     "AD_ATTACKS/GENERIC ALL.md",
     "AD_ATTACKS/RBCD ATTACK.md",
-    "AD_ATTACKS/Generic_All.png",
     "GENERIC_ALL.md",
     "HACK_THE_BOX/PUPPY/HTB - PUPPY.md",
     "HACK_THE_BOX/TOMB_WATCHER",
@@ -222,7 +223,6 @@
     "RED_TEAM/VULNLABS/REFLECTION_/_REFLECTION.md",
     "RED_TEAM/VULNLABS/LUSTROUS_2_X/LUSTROUS_2.md",
     "RED_TEAM/VULNLABS/TENGU_",
-    "RED_TEAM/VULNLABS/TEA_",
-    "RED_TEAM/VULNLABS/SENDAI"
+    "RED_TEAM/VULNLABS/TEA_"
   ]
 }
