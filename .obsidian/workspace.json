@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HACK_THE_BOX/MIRAGE_/MIRAGE.HTB.md",
+                "file": "HACK_THE_BOX/RUSTY_KEY/RUSTYKEY.HTB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MIRAGE.HTB"
+              "title": "RUSTYKEY.HTB"
             }
           }
         ]
@@ -178,9 +178,11 @@
   },
   "active": "3472215fb8df7bb7",
   "lastOpenFiles": [
+    "HACK_THE_BOX/RUSTY_KEY/rusty-timerroast.png",
+    "HACK_THE_BOX/RUSTY_KEY/rusty-info.png",
+    "HACK_THE_BOX/RUSTY_KEY/RUSTYKEY.HTB.md",
     "HACK_THE_BOX/CERTIFICATE_/Certificate.htb.md",
-    "HACK_THE_BOX/MIRAGE_/MIRAGE.HTB.md",
-    "HACK_THE_BOX/MIRAGE_",
+    "HACK_THE_BOX/RUSTY_KEY",
     "HACK_THE_BOX/CERTIFICATE_/certificate.png",
     "HACK_THE_BOX/CERTIFICATE_",
     "HACK_THE_BOX/TOMB_WATCHER/TOMB_WATCHER_.md",
@@ -192,7 +194,6 @@
     "HACK_THE_BOX/TOMB_WATCHER/next-blood.png",
     "HACK_THE_BOX/TOMB_WATCHER/next-blood-tomb.png",
     "HACK_THE_BOX/TOMB_WATCHER/tomb-blood.png",
-    "HACK_THE_BOX/TOMB_WATCHER/Tomb_bg.png",
     "HACK_THE_BOX/DARK_CORP/DARK_CORP.md",
     "BHASHMA.md",
     "TOOLS_.md",
@@ -221,7 +222,6 @@
     "RED_TEAM/VULNLABS/RETRO_2/RETRO_2.md",
     "RED_TEAM/VULNLABS/RETRO/_RETRO.md",
     "RED_TEAM/VULNLABS/REFLECTION_/_REFLECTION.md",
-    "RED_TEAM/VULNLABS/LUSTROUS_2_X/LUSTROUS_2.md",
     "RED_TEAM/VULNLABS/TENGU_",
     "RED_TEAM/VULNLABS/TEA_"
   ]
