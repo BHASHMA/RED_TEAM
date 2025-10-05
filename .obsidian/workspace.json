@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HACK_THE_BOX/RUSTY_KEY/RUSTYKEY.HTB.md",
+                "file": "HACK_THE_BOX/DARK_ZERO/DarkZero.htb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RUSTYKEY.HTB"
+              "title": "DarkZero.htb"
             }
           }
         ]
@@ -176,13 +176,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84a34007aa588efd",
+  "active": "3472215fb8df7bb7",
   "lastOpenFiles": [
+    "BHASHMA.md",
+    "TOOLS_.md",
+    "NOTE_.md",
+    "HACK_THE_BOX/DARK_ZERO/DarkZero.htb.md",
+    "HACK_THE_BOX/DARK_ZERO/Cover-darkzero.png",
+    "HACK_THE_BOX/DARK_ZERO",
+    "HACK_THE_BOX/RUSTY_KEY/RUSTYKEY.HTB.md",
     "HACK_THE_BOX/RUSTY_KEY/rusty-user.png",
     "HACK_THE_BOX/RUSTY_KEY/Blood-Rusty.png",
     "HACK_THE_BOX/RUSTY_KEY/rusty-timerroast.png",
     "HACK_THE_BOX/RUSTY_KEY/rusty-info.png",
-    "HACK_THE_BOX/RUSTY_KEY/RUSTYKEY.HTB.md",
     "HACK_THE_BOX/CERTIFICATE_/Certificate.htb.md",
     "HACK_THE_BOX/RUSTY_KEY",
     "HACK_THE_BOX/CERTIFICATE_/certificate.png",
@@ -192,12 +198,7 @@
     "HACK_THE_BOX/TOMB_WATCHER/blood-tomB.png",
     "HACK_THE_BOX/TOMB_WATCHER/certipy_change-pass.png",
     "HACK_THE_BOX/TOMB_WATCHER/certipy-tomb.png",
-    "HACK_THE_BOX/TOMB_WATCHER/del-user-tomb.png",
-    "HACK_THE_BOX/TOMB_WATCHER/next-blood.png",
     "HACK_THE_BOX/DARK_CORP/DARK_CORP.md",
-    "BHASHMA.md",
-    "TOOLS_.md",
-    "NOTE_.md",
     "AZURE_AD/Azure Penetration Testing.md",
     "Untitled.md",
     "AD_ATTACKS/GENERIC ALL.md",
@@ -221,8 +222,6 @@
     "RED_TEAM/VULNLABS/SENDAI/_SENDAI.md",
     "RED_TEAM/VULNLABS/RETRO_2/RETRO_2.md",
     "RED_TEAM/VULNLABS/RETRO/_RETRO.md",
-    "RED_TEAM/VULNLABS/REFLECTION_/_REFLECTION.md",
-    "RED_TEAM/VULNLABS/TENGU_",
-    "RED_TEAM/VULNLABS/TEA_"
+    "RED_TEAM/VULNLABS/TENGU_"
   ]
 }

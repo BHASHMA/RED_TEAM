@@ -2,6 +2,9 @@
 [Kerberos Authentication  ](https://notes.benheater.com/books/active-directory/page/kerberos-authentication-from-kali)
 
 
+https://viperone.gitbook.io/pentest-everything/everything/everything-active-directory/timeroasting
+
+
 Having domain credentials opens up a whole new world of enumeration possibilities:
 
 - Gathering Bloodhound data
