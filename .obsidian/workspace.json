@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HACK_THE_BOX/DARK_ZERO/DarkZero.htb.md",
+                "file": "HACK_THE_BOX/DARK_CORP/DARK_CORP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DarkZero.htb"
+              "title": "DARK_CORP"
             }
           }
         ]
@@ -178,9 +178,11 @@
   },
   "active": "3472215fb8df7bb7",
   "lastOpenFiles": [
-    "NOTE_.md",
     "AZURE_AD/Azure Penetration Testing.md",
     "HACK_THE_BOX/DARK_ZERO/DarkZero.htb.md",
+    "HACK_THE_BOX/DARK_ZERO/root-darkzero.png",
+    "HACK_THE_BOX/DARK_ZERO/delegate-tgt.png",
+    "NOTE_.md",
     "BHASHMA.md",
     "TOOLS_.md",
     "HACK_THE_BOX/DARK_ZERO/Cover-darkzero.png",
@@ -197,8 +199,6 @@
     "HACK_THE_BOX/TOMB_WATCHER/TOMB_WATCHER_.md",
     "HACK_THE_BOX/TOMB_WATCHER/Root-tomb.png",
     "HACK_THE_BOX/TOMB_WATCHER/blood-tomB.png",
-    "HACK_THE_BOX/TOMB_WATCHER/certipy_change-pass.png",
-    "HACK_THE_BOX/TOMB_WATCHER/certipy-tomb.png",
     "HACK_THE_BOX/DARK_CORP/DARK_CORP.md",
     "Untitled.md",
     "AD_ATTACKS/GENERIC ALL.md",
