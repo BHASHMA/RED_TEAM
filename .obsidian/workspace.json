@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HACK_THE_BOX/DARK_CORP/DARK_CORP.md",
+                "file": "HACK_THE_BOX/SIGNED_/Signed.htb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DARK_CORP"
+              "title": "Signed.htb"
             }
           }
         ]
@@ -178,6 +178,11 @@
   },
   "active": "3472215fb8df7bb7",
   "lastOpenFiles": [
+    "HACK_THE_BOX/SIGNED_/mssql_hash.png",
+    "HACK_THE_BOX/SIGNED_/Signed.htb.png",
+    "HACK_THE_BOX/DARK_CORP/DARK_CORP.md",
+    "HACK_THE_BOX/SIGNED_/Signed.htb.md",
+    "HACK_THE_BOX/SIGNED_",
     "AZURE_AD/Azure Penetration Testing.md",
     "HACK_THE_BOX/DARK_ZERO/DarkZero.htb.md",
     "HACK_THE_BOX/DARK_ZERO/root-darkzero.png",
@@ -198,8 +203,6 @@
     "HACK_THE_BOX/CERTIFICATE_",
     "HACK_THE_BOX/TOMB_WATCHER/TOMB_WATCHER_.md",
     "HACK_THE_BOX/TOMB_WATCHER/Root-tomb.png",
-    "HACK_THE_BOX/TOMB_WATCHER/blood-tomB.png",
-    "HACK_THE_BOX/DARK_CORP/DARK_CORP.md",
     "Untitled.md",
     "AD_ATTACKS/GENERIC ALL.md",
     "AD_ATTACKS/RBCD ATTACK.md",
@@ -220,8 +223,6 @@
     "RED_TEAM/VULNLABS/TENGU_/_TENGU.md",
     "RED_TEAM/VULNLABS/TEA_/TEA_.md",
     "RED_TEAM/VULNLABS/SENDAI/_SENDAI.md",
-    "RED_TEAM/VULNLABS/RETRO_2/RETRO_2.md",
-    "RED_TEAM/VULNLABS/RETRO/_RETRO.md",
-    "RED_TEAM/VULNLABS/TENGU_"
+    "RED_TEAM/VULNLABS/RETRO_2/RETRO_2.md"
   ]
 }

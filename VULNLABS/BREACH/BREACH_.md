@@ -77,7 +77,7 @@ Cool ! We got domain user and a lot of possibilities to enumerate.
 ```
 
 
-![](MSSQL_hash.png)
+![](../../HACK_THE_BOX/SIGNED_/mssql_hash.png)
 
 Cracking the SPN . 
 
