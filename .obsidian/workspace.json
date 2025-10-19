@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HACK_THE_BOX/SIGNED_/Signed.htb.md",
+                "file": "NOTE_.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Signed.htb"
+              "title": "NOTE_"
             }
           }
         ]
@@ -178,13 +178,13 @@
   },
   "active": "3472215fb8df7bb7",
   "lastOpenFiles": [
+    "HACK_THE_BOX/DARK_ZERO/DarkZero.htb.md",
+    "HACK_THE_BOX/SIGNED_/Signed.htb.md",
     "HACK_THE_BOX/SIGNED_/mssql_hash.png",
     "HACK_THE_BOX/SIGNED_/Signed.htb.png",
     "HACK_THE_BOX/DARK_CORP/DARK_CORP.md",
-    "HACK_THE_BOX/SIGNED_/Signed.htb.md",
     "HACK_THE_BOX/SIGNED_",
     "AZURE_AD/Azure Penetration Testing.md",
-    "HACK_THE_BOX/DARK_ZERO/DarkZero.htb.md",
     "HACK_THE_BOX/DARK_ZERO/root-darkzero.png",
     "HACK_THE_BOX/DARK_ZERO/delegate-tgt.png",
     "NOTE_.md",
@@ -202,7 +202,6 @@
     "HACK_THE_BOX/CERTIFICATE_/certificate.png",
     "HACK_THE_BOX/CERTIFICATE_",
     "HACK_THE_BOX/TOMB_WATCHER/TOMB_WATCHER_.md",
-    "HACK_THE_BOX/TOMB_WATCHER/Root-tomb.png",
     "Untitled.md",
     "AD_ATTACKS/GENERIC ALL.md",
     "AD_ATTACKS/RBCD ATTACK.md",

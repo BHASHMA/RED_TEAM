@@ -1,2 +1,0 @@
-
- More than 95 percent of Fortune 500 companies use Azure, making it one of the most critical cloud platforms today. Entra ID (formerly Azure AD) is among the largest web-based identity providers, and the ability to assess and secure Azure environments is a highly sought-after skill. 

