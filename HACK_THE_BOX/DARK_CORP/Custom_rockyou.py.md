@@ -1,4 +1,5 @@
 
+```
 input_file = "rockyou.txt"
 output_file = "rockyou_custom.txt"
 
@@ -23,3 +24,6 @@ with open(input_file, "r", encoding="latin-1", errors="ignore") as f_in, \
 
 print(f"Input lines:  {count_in}")
 print(f"Written lines (unique, length {min_len}-{max_len}): {count_out}")
+
+```
+ss
