@@ -120,14 +120,14 @@ RASCZAK :: starship99
 
 
 
-![](../../Pasted%20image%2020251108225239.png)
+![](kledanthu_3.png)
 
 
 
-![](../../Pasted%20image%2020251108225301.png)
+![](klendanthu_4.png)
 
 
-![](../../Pasted%20image%2020251108225333.png)
+![](klendanthi-5.png)
 
 
 Now in order to forge the silver ticket we need to know , nthash of service account , domain-sid / computer-sid ; and impacket-ticketer....
