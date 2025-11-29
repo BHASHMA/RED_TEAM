@@ -11,10 +11,14 @@
             "id": "9f7d9f6ae5528ce0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "HACK_THE_BOX/FRIES/FRIES_HTB.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "FRIES_HTB"
             }
           }
         ]
@@ -172,8 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f7d9f6ae5528ce0",
+  "active": "84a34007aa588efd",
   "lastOpenFiles": [
+    "HACK_THE_BOX/FRIES/FRIES_HTB.md",
+    "HACK_THE_BOX/FRIES",
     "HACK_THE_BOX/NANO_CORP/NANO_CORP.md",
     "HACK_THE_BOX/TOMB_WATCHER/TOMB_WATCHER_.md",
     "WIRELESS_/BASICS.md",
@@ -215,10 +221,8 @@
     "HACK_THE_BOX/RUSTY_KEY/RUSTYKEY.HTB.md",
     "HACK_THE_BOX/CERTIFICATE_/Certificate.htb.md",
     "HACK_THE_BOX/RUSTY_KEY",
-    "HACK_THE_BOX/CERTIFICATE_",
     "AD_ATTACKS/RBCD ATTACK.md",
     "GENERIC_ALL.md",
-    "HACK_THE_BOX/PUPPY/HTB - PUPPY.md",
-    "IFRIT/HERE_WE_GO.md"
+    "HACK_THE_BOX/PUPPY/HTB - PUPPY.md"
   ]
 }
