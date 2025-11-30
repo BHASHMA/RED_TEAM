@@ -11,14 +11,10 @@
             "id": "9f7d9f6ae5528ce0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HACK_THE_BOX/FRIES/FRIES_HTB.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "FRIES_HTB"
+              "title": "New tab"
             }
           }
         ]
