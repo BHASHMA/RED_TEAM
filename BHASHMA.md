@@ -1,6 +1,5 @@
 
 Notes and Walkthroughs.....
 
+![](bg_.png)
 
-
-![](Bhashma_.png)
