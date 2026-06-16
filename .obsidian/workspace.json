@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f7d9f6ae5528ce0",
+            "id": "9740df211a22ae14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BHASHMA.md",
+                "file": "VARIABLE_SOLUTIONS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BHASHMA"
+              "title": "VARIABLE_SOLUTIONS"
             }
           }
         ]
@@ -176,20 +176,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f7d9f6ae5528ce0",
+  "active": "9740df211a22ae14",
   "lastOpenFiles": [
-    "Pasted image 20260113001727.png",
-    "BHASHMA.md",
     "Bhashma_.png",
+    "VARIABLE_SOLUTIONS.md",
+    "OPEN_BUG.md",
+    "Untitled",
+    "NOTE_.md",
+    "BHASHMA.md",
+    "VULNLABS/HERON_/HERON.md",
+    "Pasted image 20260113001727.png",
     "bg_.png",
     "HACK_THE_BOX/FRIES/FRIES_HTB.md",
     "HACK_THE_BOX/FRIES",
     "HACK_THE_BOX/NANO_CORP/NANO_CORP.md",
     "HACK_THE_BOX/TOMB_WATCHER/TOMB_WATCHER_.md",
     "WIRELESS_/BASICS.md",
-    "NOTE_.md",
     "TOOLS_.md",
-    "OPEN_BUG.md",
     "HACK_THE_BOX/NANO_CORP",
     "PRO_LABS/KLENDATHU_/KLENDATHU_.md",
     "PRO_LABS/KLENDATHU_/kledanthu_3.png",
@@ -201,7 +204,6 @@
     "PRO_LABS/KLENDATHU_/kledantu_1.png",
     "PRO_LABS/POO/P.O.O.md",
     "PRO_LABS/KLENDATHU_",
-    "VULNLABS/HERON_/HERON.md",
     "PRO_LABS/HERON/HERON_.md",
     "VULNLABS/TEA_/TEA_.md",
     "VULNLABS/TENGU_/_TENGU.md",
@@ -220,8 +222,6 @@
     "HACK_THE_BOX/DARK_ZERO",
     "HACK_THE_BOX/RUSTY_KEY/RUSTYKEY.HTB.md",
     "HACK_THE_BOX/CERTIFICATE_/Certificate.htb.md",
-    "HACK_THE_BOX/RUSTY_KEY",
-    "AD_ATTACKS/RBCD ATTACK.md",
-    "GENERIC_ALL.md"
+    "AD_ATTACKS/RBCD ATTACK.md"
   ]
 }
