@@ -11,10 +11,12 @@
             "id": "9740df211a22ae14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "bg_.png"
+              },
+              "icon": "lucide-image",
+              "title": "bg_"
             }
           }
         ]
@@ -172,9 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84a34007aa588efd",
+  "active": "9740df211a22ae14",
   "lastOpenFiles": [
     "Bhashma_.png",
+    "bg_.png",
     "VARIABLE_SOLUTIONS.md",
     "OPEN_BUG.md",
     "Untitled",
@@ -182,7 +185,6 @@
     "BHASHMA.md",
     "VULNLABS/HERON_/HERON.md",
     "Pasted image 20260113001727.png",
-    "bg_.png",
     "HACK_THE_BOX/FRIES/FRIES_HTB.md",
     "HACK_THE_BOX/FRIES",
     "HACK_THE_BOX/NANO_CORP/NANO_CORP.md",
