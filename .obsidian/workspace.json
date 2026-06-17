@@ -11,12 +11,14 @@
             "id": "9740df211a22ae14",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "bg_.png"
+                "file": "OPEN_BUG.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "bg_"
+              "icon": "lucide-file",
+              "title": "OPEN_BUG"
             }
           }
         ]
@@ -176,13 +178,14 @@
   },
   "active": "9740df211a22ae14",
   "lastOpenFiles": [
+    "TOOLS_.md",
+    "NOTE_.md",
+    "BHASHMA.md",
     "Bhashma_.png",
     "bg_.png",
     "VARIABLE_SOLUTIONS.md",
     "OPEN_BUG.md",
     "Untitled",
-    "NOTE_.md",
-    "BHASHMA.md",
     "VULNLABS/HERON_/HERON.md",
     "Pasted image 20260113001727.png",
     "HACK_THE_BOX/FRIES/FRIES_HTB.md",
@@ -190,7 +193,6 @@
     "HACK_THE_BOX/NANO_CORP/NANO_CORP.md",
     "HACK_THE_BOX/TOMB_WATCHER/TOMB_WATCHER_.md",
     "WIRELESS_/BASICS.md",
-    "TOOLS_.md",
     "HACK_THE_BOX/NANO_CORP",
     "PRO_LABS/KLENDATHU_/KLENDATHU_.md",
     "PRO_LABS/KLENDATHU_/kledanthu_3.png",
