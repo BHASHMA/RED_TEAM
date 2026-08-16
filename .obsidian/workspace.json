@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRO_LABS/MYTHICAL_/MYTHICAL.VL.md",
+                "file": "PRO_LABS/OPEN_BUG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MYTHICAL.VL"
+              "title": "OPEN_BUG"
             }
           }
         ]
@@ -178,18 +178,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9740df211a22ae14",
+  "active": "84a34007aa588efd",
   "lastOpenFiles": [
-    "PRO_LABS/KLENDATHU_/KLENDATHU_.md",
+    "NOTE_.md",
+    "PRO_LABS/OPEN_BUG.md",
+    "TOOLS_.md",
+    "bg_.png",
     "PRO_LABS/MYTHICAL_/MYTHICAL.VL.md",
+    "PRO_LABS/KLENDATHU_/KLENDATHU_.md",
     "PRO_LABS/MYTHICAL_",
     "PRO_LABS/POO/P.O.O.md",
     "BHASHMA.md",
-    "NOTE_.md",
-    "OPEN_BUG.md",
-    "TOOLS_.md",
     "Bhashma_.png",
-    "bg_.png",
     "VARIABLE_SOLUTIONS.md",
     "Untitled",
     "VULNLABS/HERON_/HERON.md",
@@ -224,7 +224,6 @@
     "HACK_THE_BOX/SIGNED_",
     "AZURE_AD/Azure Penetration Testing.md",
     "HACK_THE_BOX/RUSTY_KEY/RUSTYKEY.HTB.md",
-    "HACK_THE_BOX/CERTIFICATE_/Certificate.htb.md",
-    "AD_ATTACKS/RBCD ATTACK.md"
+    "HACK_THE_BOX/CERTIFICATE_/Certificate.htb.md"
   ]
 }
