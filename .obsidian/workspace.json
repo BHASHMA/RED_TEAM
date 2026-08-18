@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTE_.md",
+                "file": "BHASHMA_.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NOTE_"
+              "title": "BHASHMA_"
             }
           }
         ]
@@ -178,16 +178,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c630b2cf9592f246",
+  "active": "84a34007aa588efd",
   "lastOpenFiles": [
+    "bg_.png",
+    "NOTE_.md",
     "TOOLS_.md",
     "SATELLITE_/SATELLITE_.md",
     "SATELLITE_",
     "Untitled.base",
     "Untitled 1.base",
     "SATELLITE_/sat_arc.png",
-    "BHASHMA.md",
-    "NOTE_.md",
+    "BHASHMA_.md",
     "AD_ATTACKS/SLIVER_TICKET.md",
     "AD_ATTACKS/Generic_All.png",
     "AD_ATTACKS/RBCD ATTACK.md",

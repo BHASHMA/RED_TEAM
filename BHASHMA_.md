@@ -1,5 +1,5 @@
 
 Notes and Walkthroughs.....
 
-![](bg_.png)
+![700](bg_.png)
 
