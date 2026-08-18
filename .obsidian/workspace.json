@@ -11,14 +11,12 @@
             "id": "c630b2cf9592f246",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "BHASHMA_.md",
-                "mode": "source",
-                "source": false
+                "file": "bg_.png"
               },
-              "icon": "lucide-file",
-              "title": "BHASHMA_"
+              "icon": "lucide-image",
+              "title": "bg_"
             }
           }
         ]
@@ -180,6 +178,8 @@
   },
   "active": "84a34007aa588efd",
   "lastOpenFiles": [
+    "BHASHMA_.md",
+    "bg_.png",
     "bg_.png",
     "NOTE_.md",
     "TOOLS_.md",
@@ -188,13 +188,11 @@
     "Untitled.base",
     "Untitled 1.base",
     "SATELLITE_/sat_arc.png",
-    "BHASHMA_.md",
     "AD_ATTACKS/SLIVER_TICKET.md",
     "AD_ATTACKS/Generic_All.png",
     "AD_ATTACKS/RBCD ATTACK.md",
     "AD_ATTACKS/GENERIC ALL.md",
     "PRO_LABS/OPEN_BUG.md",
-    "bg_.png",
     "PRO_LABS/MYTHICAL_/MYTHICAL.VL.md",
     "PRO_LABS/KLENDATHU_/KLENDATHU_.md",
     "PRO_LABS/MYTHICAL_",
@@ -212,8 +210,6 @@
     "PRO_LABS/KLENDATHU_/kledanthu_3.png",
     "PRO_LABS/KLENDATHU_/klendanthi-5.png",
     "PRO_LABS/KLENDATHU_/klendanthu_4.png",
-    "PRO_LABS/KLENDATHU_/klendathu_2.png",
-    "PRO_LABS/KLENDATHU_/kledantu_1.png",
     "PRO_LABS/KLENDATHU_",
     "PRO_LABS/HERON/HERON_.md",
     "VULNLABS/TEA_/TEA_.md",
